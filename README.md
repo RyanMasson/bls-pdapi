@@ -1,2 +1,2 @@
 # bls-pdapi
-BLS Public Data API w/ Python: a preliminary exploration
+Bureau of Labor Statistics (BLS)  Public Data API w/ Python: a preliminary exploration
